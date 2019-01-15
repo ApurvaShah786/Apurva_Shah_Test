@@ -1,0 +1,6 @@
+This is a python program that takes two version number as input and outputs whether its greater,lesser or equal.
+To start with the version number has four parts each separated by a dot:
+1. Major
+2. Minor
+3. Revision
+4. Build
