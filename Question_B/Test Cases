@@ -1,0 +1,54 @@
+Test Case 1:
+Input:  
+Enter First version number to be compared: 1.2.3
+Enter Second version number to be compared: 1.2
+
+Output:
+Version one is greater than version two
+ 
+ 
+Test Case 2:
+Input:
+Enter First version number to be compared: 1.2
+Enter Second version number to be compared: 2.0
+
+Output:
+Version one is smaller than version two
+
+
+Test Case 3:
+Input:
+Enter First version number to be compared: 1.2.3.4
+Enter Second version number to be compared: 1.2.3.5
+
+Output:
+Version one is smaller than version two
+
+
+Test Case 4:
+Input:
+Enter First version number to be compared: 1.2.2
+Enter Second version number to be compared: 1.2.2
+
+Ouput:
+Versions are equal
+
+
+Test Case 5:
+Input:
+Enter First version number to be compared: .8
+Enter Second version number to be compared: 1.8
+
+Output:
+Oops..Wrong version format
+Enter version number in this format: d.d.d.d
+
+
+Test Case 6:
+Input:
+Enter First version number to be compared: 7.8
+Enter Second version number to be compared: 8..8
+
+Output:
+Oops..Wrong version format
+Enter version number in this format: d.d.d.d
