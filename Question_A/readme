@@ -1,0 +1,9 @@
+The lines are said to overlap if either of the point of one line is on other.
+In this program, first points are checked whether they are collinear using slope and then it is checked whether one of the point (of one line) lies on another using following condition:
+
+"If the point satisfies the equation of the line (results in a true equality), then the point is on the line. Then: If you want to know whether the point (x,y) is "in between" the two endpoints, make sure that x1≤x≤x2 or that y1≤y≤y2.
+If the point of interest does not satisfy the equation of the line, then it is not on the line."[1]
+
+References Used:
+[1] https://math.stackexchange.com/questions/255120/determining-if-a-point-lies-on-a-particular-slope-between-two-points
+[2] https://www.urbanpro.com/gre/how-to-determine-if-points-are-collinear
